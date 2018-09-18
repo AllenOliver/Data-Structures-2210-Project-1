@@ -1,0 +1,7 @@
+C:\Users\dinst\source\repos\DataStructuresProject1\DataStructuresProject1\bin\Debug\DataStructuresProject1.exe.config
+C:\Users\dinst\source\repos\DataStructuresProject1\DataStructuresProject1\bin\Debug\DataStructuresProject1.exe
+C:\Users\dinst\source\repos\DataStructuresProject1\DataStructuresProject1\bin\Debug\DataStructuresProject1.pdb
+C:\Users\dinst\source\repos\DataStructuresProject1\DataStructuresProject1\obj\Debug\DataStructuresProject1.csprojAssemblyReference.cache
+C:\Users\dinst\source\repos\DataStructuresProject1\DataStructuresProject1\obj\Debug\DataStructuresProject1.csproj.CoreCompileInputs.cache
+C:\Users\dinst\source\repos\DataStructuresProject1\DataStructuresProject1\obj\Debug\DataStructuresProject1.exe
+C:\Users\dinst\source\repos\DataStructuresProject1\DataStructuresProject1\obj\Debug\DataStructuresProject1.pdb
